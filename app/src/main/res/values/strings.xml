@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application5</string>
+    <string name="editText_name">0</string>
+    <string name="key_name_num0">0</string>
+    <string name="key_name_num1">1</string>
+    <string name="key_name_num2">2</string>
+    <string name="key_name_num3">3</string>
+    <string name="key_name_num4">4</string>
+    <string name="key_name_num5">5</string>
+    <string name="key_name_num6">6</string>
+    <string name="key_name_num7">7</string>
+    <string name="key_name_num8">8</string>
+    <string name="key_name_num9">9</string>
+    <string name="key_name_point">.</string>
+    <string name="key_name_pul">+</string>
+    <string name="key_name_mul">×</string>
+    <string name="key_name_min">-</string>
+    <string name="key_name_div">÷</string>
+    <string name="key_name_equ">=</string>
+    <string name="key_name_del">DEL</string>
+    <string name="key_name_clean">AC</string>
+    <string name="key_name_percent">%</string>
+    <string name="key_name_sin">SIN</string>
+    <string name="key_name_cos">COS</string>
+    <string name="key_name_tan">TAN</string>
+
+</resources>
